@@ -1,10 +1,16 @@
-### Hi there 👋, I'm Yeabsira Yonas
+# Hi there 👋, I'm Yeabsira Yonas
 #### Development and Design
 ![Development and Design](https://yabulala432.github.io/portfolio/banner.png)
 
 I'm Yeabsira Yonas from Ethiopia, a Software Engineering Student in Addis Ababa Science and Technology University. I really enjoy learning languages and frameworks like Angular and NestJs. I also enjoy ui, ux, and designing in general. You can check out my twitter at https://twitter.com/yeabsirayo77059 or reach me on telegram https://t.me/@fkreyohanns.
 
-Skills: NestJs/Angular/Java/C++/PHP/Ts / JS / HTML / CSS
+## Skills and Experience 
+* NestJs
+* Angular
+* Java
+* C++
+* PHP
+* Ts | JS | HTML | CSS
 
 - 🔭 I’m currently working on My own Projects 
 
