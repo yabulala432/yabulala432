@@ -1,4 +1,4 @@
-### Hi there 👋, Yeabsira Yonas
+### Hi there 👋, I'm Yeabsira Yonas
 #### Development and Design
 ![Development and Design](https://yabulala432.github.io/portfolio/banner.png)
 
