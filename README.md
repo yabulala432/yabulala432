@@ -7,10 +7,9 @@
 
 ## Skills and Experience 
 * NestJs
-* Angular
+* React
 * Java
 * C++
-* PHP
 * Ts | JS | HTML | CSS
 
 - 🔭 I’m currently working on My own Projects 
