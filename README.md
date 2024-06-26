@@ -1,9 +1,8 @@
 ![Development and Design](https://yabulala432.github.io/portfolio/banner.png)
 
 # Yeabsira Yonas
-### I'm Yeabsira Yonas from Ethiopia, a 4th year Software Engineering Student in AASTU and at ALX online learning platform. I really enjoy learning languages and frameworks like Angular and NestJs. I also enjoy ui, ux, and designing in general. You can check out my twitter at https://twitter.com/yeabsirayo77059 or reach me on telegram https://t.me/fkreyohanns.
-
-#### - I'm currently working on my coding and designing skills.
+### I'm Yeabsira Yonas from Ethiopia, a 4th year Software Engineering Student in AASTU. I really enjoy learning languages and frameworks like React-Native and NestJs.
+I also enjoy ui, ux, and designing in general. You can reach me on telegram https://t.me/fkreyohanns.
 
 ## Skills and Experience 
 * NestJs
