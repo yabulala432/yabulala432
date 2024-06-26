@@ -1,7 +1,7 @@
 # Yeabsira Yonas
 ### I'm Yeabsira Yonas from Ethiopia, a 4th year Software Engineering Student in AASTU. 
-I really enjoy learning languages and frameworks like React-Native and NestJs.
-I also enjoy ui, ux, and designing in general. You can reach me on telegram https://t.me/fkreyohanns.
+### I really enjoy learning languages and frameworks like React-Native and NestJs.
+### I also enjoy ui, ux, and designing in general. You can reach me on telegram https://t.me/fkreyohanns.
 
 ## Skills and Experience 
 * NestJs
